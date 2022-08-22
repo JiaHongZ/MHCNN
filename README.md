@@ -33,4 +33,11 @@ Code: hk04
 - trainsets
 - utils
 
+citation:
+@article{zhang2022multi,
+  title={A Multi-Head Convolutional Neural Network With Multi-path Attention improves Image Denoising},
+  author={Zhang, Jiahong and Qu, Meijun and Wang, Ye and Cao, Lihong},
+  journal={arXiv preprint arXiv:2204.12736},
+  year={2022}
+}
 
